@@ -16,15 +16,17 @@ example:
     what this does is it types the string "Email" to the cv followed by a link mailto:alayaa694@gmail.com and the string of the link as alayaa694@gmail.com
     *Remember to subtitute the `:` character in the link with the `##` *
     
-   The format for adding pure text to the cv is like so:
-      `"Self taught software developer:text -july_2018"`
+The format for adding pure text to the cv is like so:
+
+`"Self taught software developer:text -july_2018"`
 - you type in the title of the information in this case it's "self taught software developer" 
 - then you'll add the `:` character
 - after which you'll type "text"
 - finally you'll type the text you want to add
       
-   The format for adding experience to the experience section in the cv is like so:
-      `"Indie game developer:exp march_2019 till_date _ _ _ |Godot_|Python_|Blender"`
+The format for adding experience to the experience section in the cv is like so:
+
+`"Indie game developer:exp march_2019 till_date _ _ _ |Godot_|Python_|Blender"`
 - you type in you experience in this case it's "Indie game developer"
 - then you'll add the `:` character
 - after which you'll type "exp"
@@ -37,15 +39,17 @@ example:
 - the name of the company
 - and finally the tools you used in such job
       
-  The format for adding skills to the skills sections of the cv is like so:
-      `"Python:skill |Django_|Pandas_|PyQt5_|Pygame_|numpy_|Eel"`
+The format for adding skills to the skills sections of the cv is like so:
+
+`"Python:skill |Django_|Pandas_|PyQt5_|Pygame_|numpy_|Eel"`
 - You type in the name of the skill in this case "Python"
 - followed by the `:` character
 - then you type "skill"
 - after which you leave space and type in the tools you used for such skill      
       
-  The format for adding achievements to the achievements section of the cv is like so:
-      `"Advent of code 2020:achieve I_participate_in_the_advent_of_code_2020_challenge https##//adventofcode.com/2020/about C-NERD"`
+The format for adding achievements to the achievements section of the cv is like so:
+
+`"Advent of code 2020:achieve I_participate_in_the_advent_of_code_2020_challenge https##//adventofcode.com/2020/about C-NERD"`
 - you type in the achievement in this case it's "Advent of code 2020"
 - then you'll add the `:` character
 - the you'll add "achieve"
@@ -54,8 +58,9 @@ example:
 - and finally type in the text for the link
       
       
-  The format for adding projects to the project section of the cv is like so:
-      `"Tiles:project A_2D_game_I_am_working_on_using_pygame _ _"`
+The format for adding projects to the project section of the cv is like so:
+
+`"Tiles:project A_2D_game_I_am_working_on_using_pygame _ _"`
 - you type the name of the project you are currently working on in this case it's "Tiles"
 - then input the `:` character and then type "project"
 - then add space and then type in a description of your project(keep it short)
