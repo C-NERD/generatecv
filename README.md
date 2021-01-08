@@ -11,10 +11,11 @@ The template the program used is inspired from cv advise given in these youtube 
 3. Then replace the values of the other fields with your information
 
 example:
-    if i want to add my email address in the contact section i would simply add
-    `"Email:link mailto##alayaa694@gmail.com alayaa694@gmail.com"`
-    what this does is it types the string "Email" to the cv followed by a link mailto:alayaa694@gmail.com and the string of the link as alayaa694@gmail.com
-    *Remember to subtitute the `:` character in the link with the `##` *
+
+if i want to add my email address in the contact section i would simply add
+`"Email:link mailto##alayaa694@gmail.com alayaa694@gmail.com"`
+what this does is it types the string "Email" to the cv followed by a link mailto:alayaa694@gmail.com and the string of the link as alayaa694@gmail.com
+*Remember to subtitute the `:` character in the link with the `##` *
     
 The format for adding pure text to the cv is like so:
 
@@ -68,8 +69,7 @@ The format for adding projects to the project section of the cv is like so:
 - finally add the text to the link(if you didn't add add a link no need for this one)
       
       
-After filling your information in the settings.json file install the thrid party library **fpdf** using
-`pip3 install fpdf`
+After filling your information in the settings.json file startup the virtual enviroment virtualenv, here is a link on how to use python virtual enviroments [link](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/#Activate%20the%20virtual%20environment)
 
 finally run
 `python3 cv.py`
