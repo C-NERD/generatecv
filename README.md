@@ -68,10 +68,8 @@ The format for adding projects to the project section of the cv is like so:
 - finally add the text to the link(if you didn't add add a link no need for this one)
       
       
-After filling your information in the settings.json file activate the virtual enviroment **virtualenv** if you do not know how to activate python virtual enviroment check this [link](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/#Activate%20the%20virtual%20environment)
-
-so after activating the virtual enviroment make sure that you terminal is in the same directory as the cv.py file and that the cv.py file is in the same directory
-as the settings.json file
+After filling your information in the settings.json file install the thrid party library **fpdf** using
+`pip3 install fpdf`
 
 finally run
 `python3 cv.py`
