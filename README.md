@@ -1,5 +1,5 @@
-# generatecv
-Generate cv is a simple python project which helps to generate tech cv(resume) using a single template like the cv [here](https://drive.google.com/file/d/1jMK9Wv8kcStDkrvsSbjHHkhoLCHjF_Ok/view?usp=sharing). If you like my qualifications on that cv you might want to consider hiring me 😆.
+# GenerateCV
+GenerateCV is a simple python project which helps to generate tech cv(resume) using a single template like the cv [here](https://drive.google.com/file/d/1jMK9Wv8kcStDkrvsSbjHHkhoLCHjF_Ok/view?usp=sharing). If you like my qualifications on that cv you might want to consider hiring me 😆.
 
 The template the program used is inspired from cv advise given in these youtube videos
 - [How to create the perfect software developer resume](https://www.youtube.com/watch?v=GyjzOKdaioU&t=368s)
