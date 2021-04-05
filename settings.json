@@ -1,38 +1,150 @@
 {
-    "title" : "Alaya Abdullahi",
-    "contact" : [
-        "Email:link mailto##alayaa694@gmail.com alayaa694@gmail.com",
-        "Github:link https##//github.com/C-NERD github.com/C-NERD",
-        "Site:link http##//cnerdprogramming.tech cnerdprogramming.tech",
-        "Contact:text +2349065739180"
+    "name" : "Alaya Abdullahi",
+    "contact" : 
+    [
+        {
+            "type" : "Email",
+            "name" : "alayaa694@gmail.com",
+            "link" : "mailto:alayaa694@gmail.com"
+        },
+        {
+            "type" : "Github",
+            "name" : "C-NERD",
+            "link" : "https://github.com/C-NERD"
+        },
+        {
+            "type" : "Site",
+            "name" : "cnerdprogramming",
+            "link" : "https://cnerdprogramming.tech"
+        },
+        {
+            "type" : "Contact",
+            "name" : "+2349065739180",
+            "link" : ""
+        }
     ],
-    "education" : [
-        "Self taught software developer:text -july_2018"
+    "education" : 
+    [
+        {
+            "name" : "Self taught software developer",
+            "institution" : "",
+            "link" : "",
+            "start_date" : "july 2017",
+            "end_date" : "till date"
+        }
     ],
-    "experience" : [
-        "Freelance full stack web developer:exp jan_2019 till_date _ _ _ |Python[django]_|Nim[jester,_karax]_|Javascript[Node,_Vuejs]",
-        "Indie game developer:exp march_2019 till_date _ _ _ |Godot_|Python_|Blender",
-        "Tech Youtuber:exp 2018 till_date _ https##//www.youtube.com/channel/UCDAN3oIUauqL5e7-6gf09MQ youtube.com/channel/UCDAN3oIUauqL5e7-6gf09MQ _",
-        "Mobile engineer:exp 2018 2019 Nigeria https##//femtechit.com/ femtechit _"
+    "experience" : 
+    [
+        {
+            "name" : "Freelance Full stack web developer",
+            "work_place" : "",
+            "link" : "",
+            "start_date" : "september 2018",
+            "end_date" : "till date",
+            "tools" : ["Python[django]", "Nim[jester, Karax, fidget]", "JavaScript[Node, Deno, hyperapp]"]
+        },
+        {
+            "name" : "Indie game developer",
+            "work_place" : "",
+            "link" : "",
+            "start_date" : "july 2020",
+            "end_date" : "till date",
+            "tools" : ["Python[pygame]", "Godot", "Blender"]
+        },
+        {
+            "name" : "Tech youtuber",
+            "work_place" : "Youtube",
+            "link" : "https://www.youtube.com/channel/UCDAN3oIUauqL5e7-6gf09MQ",
+            "start_date" : "december 2016",
+            "end_date" : "till date",
+            "tools" : ["Python", "Nim", "Kotlin"]
+        },
+        {
+            "name" : "Freelance Mobile Android Developer",
+            "work_place" : "",
+            "link" : "",
+            "start_date" : "august 2020",
+            "end_date" : "till date",
+            "tools" : ["Dart[flutter]", "Kotlin[jetpack compose]"]
+        },
+        {
+            "name" : "Desktop development[Gui and automation]",
+            "work_place" : "",
+            "link" : "",
+            "start_date" : "july 2017",
+            "end_date" : "till date",
+            "tools" : ["Python", "Nim", "Kotlin", "JavaScript"]
+        }
     ],
-    "skills" : [
-        "Python:skill |Django_|Pandas_|PyQt5_|Pygame_|numpy_|Eel",
-        "JavaScript:skill |Nodejs_|Deno_|Vuejs_|Hyperapp_|Parcel",
-        "Nim:skill |Jester_|Neel_|Karax_|NiGui",
-        "Kotlin:skill |Android_Development",
-        "Version control:skill |Git",
-        "Database:skill |Postgresql_|Sqlite",
-        "Web tech:skill |Html_|Css_|Xml_",
-        "3D:skill |Blender_|Godot"
+    "skills" : 
+    [
+        {
+            "name" : "Python",
+            "libraries" : ["Django", "Numpy", "PyQt5", "Pygame", "Pywebview"]
+        },
+        {
+            "name" : "JavaScript",
+            "libraries" : ["Nodejs", "Deno", "Hyperapp"]
+        },
+        {
+            "name" : "Nim",
+            "libraries" : ["Jester", "Karax", "Arraymancer", "NiGui"]
+        },
+        {
+            "name" : "Kotlin",
+            "libraries" : ["Jetpack compose", "Ktor"]
+        },
+        {
+            "name" : "Dart",
+            "libraries" : ["Flutter"]
+        },
+        {
+            "name" : "Version Control",
+            "libraries" : ["Git", "Nimble", "Gradle"]
+        },
+        {
+            "name" : "Database",
+            "libraries" : ["Sqlite", "Postgresql"]
+        },
+        {
+            "name" : "3D",
+            "libraries" : ["Blender", "Godot"]
+        }
     ],
-    "achievments" : [
-        "Advent of code 2020:achieve I_participate_in_the_advent_of_code_2020_challenge https##//adventofcode.com/2020/about C-NERD"
+    "achievments" : 
+    [
+        {
+            "name" : "Advent of code 2020",
+            "description" : "I participated in the advent of code 2020 challenge",
+            "link" : "https://adventofcode.com/2020/about"
+        }
     ],
-    "projects" : [
-        "Tiles:project A_2D_game_I_am_working_on_using_pygame _ _",
-        "Pong:project A_2D_multiplayer_game_of_pong _ _"
+    "projects" : 
+    [
+        {
+            "name" : "Discoverassets",
+            "description" : "A simple search engine used to find free 3d and 2d assets on the web",
+            "link" : ""
+        },
+        {
+            "name" : "GenerateCV",
+            "description" : "A python program which generates cv(resume)",
+            "link" : ""
+        }
     ],
-    "languages" : [
-        "English(uk):text Fluent_speaker"
-    ]
+    "languages" : 
+    [
+        {
+            "name" : "English(uk)",
+            "description" : "Fluent speaker"
+        }
+    ],
+    "settings" :
+    {
+        "background" : [240, 248, 255],
+        "color" : [47, 47, 47],
+        "font_family" : "Times",
+        "topic_font_size" : "20",
+        "sentence_font_size" : "12"
+    }
 }
