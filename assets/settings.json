@@ -1,0 +1,150 @@
+{
+    "name" : "Alaya Abdullahi",
+    "contact" : 
+    [
+        {
+            "type" : "Email",
+            "name" : "alayaa694@gmail.com",
+            "link" : "mailto:alayaa694@gmail.com"
+        },
+        {
+            "type" : "Github",
+            "name" : "C-NERD",
+            "link" : "https://github.com/C-NERD"
+        },
+        {
+            "type" : "Site",
+            "name" : "cnerdprogramming",
+            "link" : "https://cnerdprogramming.tech"
+        },
+        {
+            "type" : "Contact",
+            "name" : "+2349065739180",
+            "link" : ""
+        }
+    ],
+    "education" : 
+    [
+        {
+            "name" : "Self taught software developer",
+            "institution" : "",
+            "link" : "",
+            "start_date" : "july 2017",
+            "end_date" : "till date"
+        }
+    ],
+    "experience" : 
+    [
+        {
+            "name" : "Freelance Full stack web developer",
+            "work_place" : "",
+            "link" : "",
+            "start_date" : "september 2018",
+            "end_date" : "till date",
+            "tools" : ["Python[django]", "Nim[jester, Karax, fidget]", "JavaScript[Node, Deno, hyperapp]"]
+        },
+        {
+            "name" : "Indie game developer",
+            "work_place" : "",
+            "link" : "",
+            "start_date" : "july 2020",
+            "end_date" : "till date",
+            "tools" : ["Python[pygame]", "Godot", "Blender"]
+        },
+        {
+            "name" : "Tech youtuber",
+            "work_place" : "Youtube",
+            "link" : "https://www.youtube.com/channel/UCDAN3oIUauqL5e7-6gf09MQ",
+            "start_date" : "december 2016",
+            "end_date" : "till date",
+            "tools" : ["Python", "Nim", "Kotlin"]
+        },
+        {
+            "name" : "Freelance Mobile Android Developer",
+            "work_place" : "",
+            "link" : "",
+            "start_date" : "august 2020",
+            "end_date" : "till date",
+            "tools" : ["Dart[flutter]", "Kotlin[jetpack compose]"]
+        },
+        {
+            "name" : "Desktop development[Gui and automation]",
+            "work_place" : "",
+            "link" : "",
+            "start_date" : "july 2017",
+            "end_date" : "till date",
+            "tools" : ["Python", "Nim", "Kotlin", "JavaScript"]
+        }
+    ],
+    "skills" : 
+    [
+        {
+            "name" : "Python",
+            "libraries" : ["Django", "Numpy", "PyQt5", "Pygame", "Pywebview"]
+        },
+        {
+            "name" : "JavaScript",
+            "libraries" : ["Nodejs", "Deno", "Hyperapp"]
+        },
+        {
+            "name" : "Nim",
+            "libraries" : ["Jester", "Karax", "Arraymancer", "NiGui"]
+        },
+        {
+            "name" : "Kotlin",
+            "libraries" : ["Jetpack compose", "Ktor"]
+        },
+        {
+            "name" : "Dart",
+            "libraries" : ["Flutter"]
+        },
+        {
+            "name" : "Version Control",
+            "libraries" : ["Git", "Nimble", "Gradle"]
+        },
+        {
+            "name" : "Database",
+            "libraries" : ["Sqlite", "Postgresql"]
+        },
+        {
+            "name" : "3D",
+            "libraries" : ["Blender", "Godot"]
+        }
+    ],
+    "achievments" : 
+    [
+        {
+            "name" : "Advent of code 2020",
+            "description" : "I participated in the advent of code 2020 challenge",
+            "link" : "https://adventofcode.com/2020/about"
+        }
+    ],
+    "projects" : 
+    [
+        {
+            "name" : "Discoverassets",
+            "description" : "A simple search engine used to find free 3d and 2d assets on the web",
+            "link" : "https://github.com/C-NERD/discoverassets"
+        },
+        {
+            "name" : "GenerateCV",
+            "description" : "A python program which generates cv(resume)",
+            "link" : "https://github.com/C-NERD/generatecv"
+        }
+    ],
+    "languages" : 
+    [
+        {
+            "name" : "English(uk)",
+            "description" : "Fluent speaker"
+        }
+    ],
+    "settings" :
+    {
+        "background" : [240, 248, 255],
+        "color" : [47, 47, 47],
+        "font_family" : "Times",
+        "topic_font_size" : "20",
+        "sentence_font_size" : "12"
+    }
+}

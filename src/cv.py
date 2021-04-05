@@ -13,7 +13,7 @@ class CV(pdf):
 
     def initialise(self):
         try:
-            file = open(ROOTDIR / 'settings.json', 'r')
+            file = open(ROOTDIR / 'assets/settings.json', 'r')
             self.data = loads(file.read())
             self.settings = self.data['settings']
             file.flush()
