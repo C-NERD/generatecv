@@ -26,6 +26,13 @@
     "education" : 
     [
         {
+            "name" : "B.s Physiology",
+            "institution" : "University Of Ilorin",
+            "link" : "",
+            "start_date" : "july 2018",
+            "end_date" : "july 2020"
+        },
+        {
             "name" : "Self taught software developer",
             "institution" : "",
             "link" : "",
@@ -114,6 +121,11 @@
     "achievments" : 
     [
         {
+            "name" : "Android dev challenge 2021",
+            "description" : "I participated in the Android dev challenge for jetpack compose week 4",
+            "link" : ""
+        },
+        {
             "name" : "Advent of code 2020",
             "description" : "I participated in the advent of code 2020 challenge",
             "link" : "https://adventofcode.com/2020/about"
@@ -143,7 +155,7 @@
     {
         "background" : [240, 248, 255],
         "color" : [47, 47, 47],
-        "font_family" : "Times",
+        "font_family" : "Arial",
         "topic_font_size" : "20",
         "sentence_font_size" : "12"
     }

@@ -93,8 +93,8 @@ class CV(pdf):
                 self.image(str(ROOTDIR / 'assets/img/link.png'), x = x, y = y, w = image_size, h = image_size, link = item['link'])
 
             self.ln(height)
+            self.ln(10)
 
-        self.ln(10)
 
     def createexperience(self):
         #This function is used to create the contact section of the cv
@@ -164,8 +164,8 @@ class CV(pdf):
                 self.image(str(ROOTDIR / 'assets/img/link.png'), x = x, y = y, w = image_size, h = image_size, link = item['link'])
 
             self.ln(height)
+            self.ln(10)
 
-        self.ln(10)
 
     def createprojects(self):
         #This function is used to create the contact section of the cv
