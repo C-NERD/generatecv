@@ -38,10 +38,25 @@
             "link" : "",
             "start_date" : "july 2017",
             "end_date" : "till date"
-        }
+        },
+	{
+		"name" : "Bsc Physiology",
+		"institution" : "university of ilorin",
+		"link" : "",
+		"start_date" : "september 2018",
+		"end_date" : "2022"
+	} 
     ],
     "experience" : 
     [
+	    {
+		    "name" : "Senior software developer",
+		    "work_place" : "myassignmenttutor",
+		    "link" : "https://myassignmentutor.com/",
+		    "start_date" : "november 2020",
+		    "end_date" : "till-date",
+		    "tools" : ["Python[numpy, jupyter, sympy, tkinter]"]
+	    },
         {
             "name" : "Freelance Full stack web developer",
             "work_place" : "",
@@ -72,7 +87,7 @@
             "link" : "",
             "start_date" : "august 2020",
             "end_date" : "till date",
-            "tools" : ["Dart[flutter]", "Kotlin[jetpack compose]"]
+            "tools" : ["Kotlin[jetpack compose, ktor, kmm]"]
         },
         {
             "name" : "Desktop development[Gui and automation]",
@@ -80,7 +95,7 @@
             "link" : "",
             "start_date" : "july 2017",
             "end_date" : "till date",
-            "tools" : ["Python", "Nim", "Kotlin", "JavaScript"]
+            "tools" : ["Python[kivy, PyQt5]", "Nim[nigui, webview]", "JavaScript[webview]"]
         }
     ],
     "skills" : 
@@ -99,11 +114,7 @@
         },
         {
             "name" : "Kotlin",
-            "libraries" : ["Jetpack compose", "Ktor"]
-        },
-        {
-            "name" : "Dart",
-            "libraries" : ["Flutter"]
+            "libraries" : ["Jetpack compose", "Ktor", "KMM"]
         },
         {
             "name" : "Version Control",
@@ -129,7 +140,12 @@
             "name" : "Advent of code 2020",
             "description" : "I participated in the advent of code 2020 challenge",
             "link" : "https://adventofcode.com/2020/about"
-        }
+        },
+	{
+		"name" : "Android dev challege 2021 week 4",
+		"description" : "participated in the week 4 of android dev challenge",
+		"link" : ""
+	}
     ],
     "projects" : 
     [
