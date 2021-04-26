@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 from fpdf import FPDF as pdf
 from pathlib import Path
 from json import loads
